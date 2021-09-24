@@ -1,7 +1,7 @@
 ### Olá, meu nome é Arthur Fakhouri
 
 
-- 🔭 Atualmente estou no último termo de Ciência da Computação (8° termo)
+- 🔭 Atualmente estou no último termo de Ciência da Computação (8° termo) na Unoeste
 - 🌱 Estudando A-Frame e NodeJS
 
   <div align="center">
