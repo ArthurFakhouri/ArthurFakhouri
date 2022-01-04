@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou no último termo de Ciência da Computação (8° termo) na Unoeste
-- 🌱 Estudando NodeJS e ReactJS
+- 🌱 Estudando NodeJS, ReactJS e Typescript
 
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
