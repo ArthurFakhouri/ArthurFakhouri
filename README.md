@@ -1,8 +1,8 @@
 ### Olá, meu nome é Arthur Fakhouri
 
 
-- 🔭 Atualmente estou no último termo de Ciência da Computação (8° termo) na Unoeste
-- 🌱 Estudando NodeJS, ReactJS e Typescript
+- 🔭 Formado em Ciência da Computação na Unoeste(FIPP)
+- 🌱 Estudando NodeJS e ReactJS
 
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
@@ -12,10 +12,10 @@
 
   <div style="display: inline_block"><br>
    <img align="center" alt="AF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="AF-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="AF-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="AF-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="AF-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="AF-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="AF-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="AF-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img align="center" alt="AF-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
