@@ -7,6 +7,7 @@
 Interesses:
 - NextJS
 - GraphQL
+- AWS
 - Prisma
 
   <div align="center">
