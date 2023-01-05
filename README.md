@@ -2,13 +2,12 @@
 
 
 - 🔭 Formado em Ciência da Computação na Unoeste(FIPP)
-- 🌱 Estudando Node, Typescript, React & React Native
+- 🌱 Experiência em: Node, Typescript, React & React Native, Next, API Rest, GraphQL, Prisma
 
 Interesses:
-- NextJS
-- GraphQL
 - AWS
-- Prisma
+- Docker
+- Jest
 
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
