@@ -1,7 +1,7 @@
 ### Olá, meu nome é Arthur Fakhouri
 
 
-- 🔭 Formado em Ciência da Computação na Unoeste(FIPP)
+- 👨🏻‍🎓📒 Formado em Ciência da Computação na Unoeste(FIPP)
 - 🌱 Experiência em: Node, Typescript, React & React Native, Next, API Rest, GraphQL, Prisma
 
 Interesses:
