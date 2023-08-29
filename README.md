@@ -6,8 +6,6 @@
 
 Interesses:
 - AWS
-- Docker
-- Jest
  
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
