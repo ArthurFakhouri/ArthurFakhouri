@@ -6,6 +6,7 @@
 
 Interesses:
 - AWS
+- React Native
  
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
