@@ -3,11 +3,12 @@
 
 - 👨🏻‍🎓📒 Formado em Ciência da Computação na Unoeste (FIPP) - Concluído em 2021
 - 🎨 Front-end: React, Next, Vite, Hooks, React-Components, Context API, Zustand, Redux, React-Hook-Form, Styled-Components, Stitches, Figma, HTML, CSS
-- 💻 Back-end: NodeJS, Express, Fastify, TypeORM, Prisma, API Rest, API RESTful, GraphQL
+- 💻 Back-end: NodeJS, Express, Fastify, TypeORM, Prisma, Knex, API Rest, API SOAP, API RESTful, GraphQL
+- 👨🏻‍💻 Programming Language: C++, Java, C#, Javascript, Typescript
 - 🫙 Databases:
   -  Relacional: PostgreSQL, MySQL, Oracle, SQL Server
-  -  Não-Relacional: MongoDB
-- 🌱 Plus: Javascript, Typescript, Java, Orientação a Objetos, MVC, Princípios SOLID, consumo de APIs SOAP, Socket.IO, Axios, Zod, Photoshop, Blender, modelagem MER de banco de dados
+  -  Não-Relacional: MongoDB 
+- 🌱 Plus: OOP, MVC, SOLID principles, Socket.IO, Axios, Zod, MER modeling, Photoshop, Blender
 
 Estudando: 
  - React Native
