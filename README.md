@@ -1,12 +1,25 @@
 ### Olá, meu nome é Arthur Fakhouri
 
 
-- 👨🏻‍🎓📒 Formado em Ciência da Computação na Unoeste(FIPP)
-- 🌱 Experiência em: Node, Typescript, React & React Native, Next, API Rest, GraphQL, Prisma
+- 👨🏻‍🎓📒 Formado em Ciência da Computação na Unoeste (FIPP) - Concluído em 2021
+- 🎨 Front-end: React, Vite, Hooks, React-Components, Context API, Zustand, Redux, React-Hook-Form, Styled-Components, Figma, HTML, CSS
+- 💻 Back-end: NodeJS, Express, Fastify, TypeORM, Prisma, API Rest, API RESTful, GraphQL
+- 🫙 Databases:
+  -  Relacional: PostgreSQL, MySQL, Oracle, SQL Server
+  -  Não-Relacional: MongoDB
+- 🌱 Plus: Javascript, Typescript, Java, Orientação a Objetos, MVC, Princípios SOLID, consumo de APIs SOAP, Socket.IO, Axios, Zod, Photoshop, Blender, modelagem MER de banco de dados
+
+Estudando: 
+ - React Native
+ - Zustand
+ - Redux
 
 Interesses:
-- AWS
-- React Native
+- AWS (server & devops side)
+- React Native (client side)
+- CI/CD (server & devops)
+- Web Worker (client side)
+- Recoil (React client side)
  
   <div align="center">
     <a href="https://github.com/ArthurFakhouri">
