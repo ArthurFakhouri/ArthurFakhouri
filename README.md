@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍🎓📒 Formado em Ciência da Computação na Unoeste (FIPP) - Concluído em 2021
-- 🎨 Front-end: React, Vite, Hooks, React-Components, Context API, Zustand, Redux, React-Hook-Form, Styled-Components, Figma, HTML, CSS
+- 🎨 Front-end: React, Next, Vite, Hooks, React-Components, Context API, Zustand, Redux, React-Hook-Form, Styled-Components, Figma, HTML, CSS
 - 💻 Back-end: NodeJS, Express, Fastify, TypeORM, Prisma, API Rest, API RESTful, GraphQL
 - 🫙 Databases:
   -  Relacional: PostgreSQL, MySQL, Oracle, SQL Server
