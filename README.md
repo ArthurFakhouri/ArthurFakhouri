@@ -5,7 +5,7 @@
 - 🎨 Front-end: React, Next, Vite, Hooks, React-Components, Context API, Zustand, Redux, React-Hook-Form, Styled-Components, Stitches, Figma, HTML, CSS
 - 💻 Back-end: NodeJS, Express, Fastify, TypeORM, Prisma, Knex, API Rest, API SOAP, API RESTful, GraphQL
 - 👨🏻‍💻 Programming Language: C++, Java, C#, Javascript, Typescript
-- 🫙 Databases:
+- 🔋 Databases:
   -  Relacional: PostgreSQL, MySQL, Oracle, SQL Server
   -  Não-Relacional: MongoDB 
 - 🌱 Plus: OOP, MVC, SOLID principles, Socket.IO, Axios, Zod, MER modeling, Photoshop, Blender
