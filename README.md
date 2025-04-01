@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://app.rocketseat.com.br/me/arthur-fakhouri"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=arthur-fakhouri&type=card" width="280" alt="Arthur Fakhouri's Rocket ID"/></a>
-</div>
-
 ### Olá, meu nome é Arthur Fakhouri
 
 
