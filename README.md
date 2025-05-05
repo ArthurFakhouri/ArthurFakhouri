@@ -7,7 +7,7 @@
 - 👨🏻‍💻 Programming Language: Javascript, Typescript
 - 🔋 Databases:
   -  Relacional: PostgreSQL, MySQL, Oracle & SQL Server
-  -  Não-Relacional: MongoDB
+  -  Não-Relacional: MongoDB & Redis
 - 🌱 Plus: OOP, MVC, SOLID principles, Socket.IO, Axios, Zod, MER modeling, Photoshop, Blender
 
 Interesses:
